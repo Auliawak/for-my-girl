@@ -84,7 +84,7 @@ actionBtn.addEventListener('click', () => {
     if (clickCount === 0) {
         bgMusic.play();
         mainText.innerText = "Yeyyy! I Love You! ❤️";
-        subText.innerText = "Ini bunga buat kamu...";
+        subText.innerText = "Ini bunga buat kamu sayang, maafin aku yaa";
         actionBtn.innerText = "Lagi dong bunganya!";
         setInterval(createHeart, 300); 
         clickCount++;
